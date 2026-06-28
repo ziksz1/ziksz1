@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, i'm ziks</h1>
-<h3 align="center">Tech Enthusiast & Beginner Web Developer</h3>
+<h3 align="center">Tech Enthusiast & Beginner FrontEnd Developer</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ziksz1&label=%20Profile%20Views&logo=github&color=blue&style=flat-square" alt="Profile Views" /></p>
 

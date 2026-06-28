@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, i'm ziks</h1>
 <h3 align="center">Tech Enthusiast & Beginner Web Developer</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ziksz1&color=blue)
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ziksz1&label=%20Profile%20Views&logo=github&color=blue&style=flat-square" alt="Profile Views" /></p>
 
 Aku adalah seorang **Pelajar** kelas XI SMK jurusan **Teknik Jaringan Komputer dan Telekomunikasi (TJKT)**. Saat ini aku lagi antusias banget buat terjun ke dunia *programming* dan pengembangan web.
 

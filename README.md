@@ -1,3 +1,2 @@
-### Hi there! i'm ziks.
-
-Aku adalah seorang Pelajar dan Beginner Developer in Web Development.
+<h1 align="center">Hi 👋🏻, i'm ziks</h1>
+<h3 align="center">Tech Enthusiast & Beginner in Web Development</h3>

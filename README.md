@@ -5,7 +5,7 @@
 
 Aku adalah seorang **Pelajar** kelas XI SMK jurusan **Teknik Jaringan Komputer dan Telekomunikasi (TJKT)**. Saat ini aku lagi antusias banget buat terjun ke dunia *programming* dan pengembangan web.
 
-Walaupun baru mulai belajar, ajy percaya kalau konsistensi adalah kunci. *Let's grow together!*
+Walaupun baru mulai belajar, aku percaya kalau konsistensi adalah kunci. *Let's grow together!*
 
 ### 👨‍💻 Tentang aku
 - 🌱 **Saat ini sedang belajar:** Dasar-dasar Web Development, terutama **HTML**.
@@ -30,5 +30,5 @@ Walaupun baru mulai belajar, ajy percaya kalau konsistensi adalah kunci. *Let's 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziksz1&show_icons=true&theme=radium&hide_border=true" alt="ziksz1's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ziksz1&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
 </p>

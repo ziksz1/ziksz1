@@ -19,7 +19,7 @@ Walaupun baru mulai belajar, aku percaya kalau konsistensi adalah kunci. *Let's 
 
 *(Akan terus bertambah seiring berjalannya waktu!)*
 
-<p align="left">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
@@ -30,5 +30,5 @@ Walaupun baru mulai belajar, aku percaya kalau konsistensi adalah kunci. *Let's 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziksz1&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ziksz1&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>

@@ -3,21 +3,20 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ziksz1&label=%20Profile%20Views&logo=github&color=blue&style=flat-square" alt="Profile Views" /></p>
 
-Aku adalah seorang **Pelajar** kelas XI SMK jurusan **Teknik Jaringan Komputer dan Telekomunikasi (TJKT)**. Saat ini aku lagi antusias banget buat terjun ke dunia *programming* dan pengembangan web.
+Me student of Grade XI SMK, major in Computer Network and Telecommunication Engineering. Now very excited jump into world of programming and web development.
 
-Walaupun baru mulai belajar, aku percaya kalau konsistensi adalah kunci. *Let's grow together!*
+Start learn now, but believe consistency is key. Let's grow together!
 
-### 👨‍💻 Tentang aku
-- 🌱 **Saat ini sedang belajar:** Dasar-dasar Web Development, terutama **HTML**.
-- 🔭 **Proyek sekarang:** Lagi ngembangin *website* portofolio pribadi. Aku juga lagi asik ngeksplorasi penggunaan AI buat ngebantu proses *coding* aku.
-- 🤝 **Kolaborasi:** Untuk sekarang aku lagi fokus ningkatin *skill* dasar dulu, tapi selalu terbuka buat ngobrol dan dapet *insight* baru dari kalian.
-- ⚡ **Fun fact:** Kalau lagi capek ngoding atau ngoprek jaringan, biasanya aku bakal turun ke lapangan buat main **Basket** 🏀 atau *chill* sambil **nge-Game** 🎮 di rumah.
+### 👨‍💻 About Me
+- 🌱 **Now learn:** Basics of Web Development, focus on HTML.
+- 🔭 **Current project:** Build personal portfolio website. Also explore use of AI to help coding process.
+- 🤝 **Collaboration:** Now focus on improve basic skill. Always open to talk and get new insight from you.
+- ⚡ **Fun fact:** When tired of coding or tweak network, usually go to court play Basketball or chill Game at home.
 
 ---
 
-### 🛠️ Tech Stack & Tools yang Sedang Dipelajari
-
-*(Akan terus bertambah seiring berjalannya waktu!)*
+### 🛠️ Tech Stack & Tools Now Learning
+*(Will grow over time!)*
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> 

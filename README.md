@@ -32,10 +32,3 @@ Walaupun baru mulai belajar, aku percaya kalau konsistensi adalah kunci. *Let's 
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziksz1&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziksz1&theme=nord&hide_border=true" alt="GitHub Streak Stats" />
-</p>
